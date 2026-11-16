@@ -1,0 +1,6 @@
+# Plug-in bill rules (B4 alternative). Columns:
+# name  base  perDay  perHour  perUnit        total = base + perDay*days + perHour*hours + perUnit*units
+TELECONSULT  200   0     0   15
+DIALYSIS     1500  0     0   800
+PHYSIO       300   0     0   450
+OBSERVATION  500   1200  0   0
